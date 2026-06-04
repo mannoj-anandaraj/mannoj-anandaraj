@@ -1,13 +1,13 @@
 # Hi, I'm Mannoj Anandaraj 👋
 
-**ML Engineer · MSc Advanced Computing @ King's College London**  
+**MSc Advanced Computing Student @ King's College London**  
 📍 London, UK &nbsp;|&nbsp; 📧 anandarajmannoj@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/mannoj-anandaraj-b6ba20191)
 
 ---
 
 ## About me
 
-I'm a postgraduate student specialising in machine learning and computer vision at King's College London, with 2 years of professional software engineering experience at Cognizant. I build end-to-end ML pipelines, computer vision systems, and data-driven solutions — and I'm actively looking for ML Engineering or Software Engineering roles in London.
+I'm a postgraduate student specialising in machine learning and computer vision at King's College London (graduating August 2026), with 2 years of professional experience as a Programmer Analyst at Cognizant. My academic work spans deep learning, computer vision, reinforcement learning, and data mining — and I'm actively looking for ML Engineering or Graduate Software Engineering roles in London.
 
 ---
 
@@ -17,10 +17,10 @@ I'm a postgraduate student specialising in machine learning and computer vision 
 `Python` `PyTorch` `TensorFlow` `Keras` `scikit-learn` `OpenCV` `NumPy` `Pandas`
 
 **Data & Databases**  
-`SQL Server` `MySQL` `Tableau` `MS Excel`
+`SQL Server` `MySQL`
 
 **Dev tools**  
-`Git` `GitHub` `Google Colab` `GDB` `Linux`
+`Git` `Google Colab` `Linux` `GDB`
 
 ---
 
@@ -54,14 +54,17 @@ Produced a full sports data analytics project covering data analysis, design, pr
 
 ## Experience
 
-**Junior Software Engineer** — Cognizant *(Sep 2023 – Aug 2025)*  
-Enterprise SQL database management, client support systems, mainframe administration, and monthly performance reporting for delivery leads.
+**Programmer Anayst** — Cognizant *(Sep 2023 – Aug 2025)*  
+Managed enterprise SQL databases, handled client access provisioning via mainframe systems, resolved cross-functional technical issues, and produced monthly performance reports for delivery leads. Promoted from Programmer Analyst Trainee within one year.
+
+**Programmer Anayst Trainee** — Cognizant *(Feb 2023 – Jun 2023)*  
+Built responsive web interfaces (HTML, CSS, JavaScript) and developed an attendance management portal using MySQL.
 
 ---
 
 ## Currently
 
-- 📚 Completing MSc Advanced Computing at King's College London (graduating 2026)
+- 📚 Completing MSc Advanced Computing at King's College London (graduating August 2026)
 - 🏆 Studying for AWS Cloud Practitioner certification
 - 🔍 Open to **ML Engineer** and **Graduate Software Engineer** roles in London
 
