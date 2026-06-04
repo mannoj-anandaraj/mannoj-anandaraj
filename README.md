@@ -46,18 +46,18 @@ Built decision tree classifiers on categorical data, performed cluster analysis 
 Completed 10 hands-on exploitation challenges, identifying and exploiting vulnerabilities including command-execution and shell injection flaws in C programs.  
 `C` `Linux` `GDB` `Bash`
 
-### 📈 Sports Data Analytics — Interactive Dashboard
-Produced a full sports data analytics project covering data analysis, design, prototyping, and live interactive dashboard implementation.  
-`Tableau`
+### 📈 Olympic Games Data Analytics — Interactive Dashboard
+Analysed 126 years of Olympic history (1896–2022) across 4 datasets: 21,697 medal records, 154 countries, 86 disciplines, and 162,804 results. Explored team performance trends, host nation advantage, and gender participation evolution.  
+`Tableau` `Python` `CSV`
 
 ---
 
 ## Experience
 
-**Programmer Anayst** — Cognizant *(Sep 2023 – Aug 2025)*  
+**Programmer Analyst** — Cognizant *(Sep 2023 – Aug 2025)*  
 Managed enterprise SQL databases, handled client access provisioning via mainframe systems, resolved cross-functional technical issues, and produced monthly performance reports for delivery leads. Promoted from Programmer Analyst Trainee within one year.
 
-**Programmer Anayst Trainee** — Cognizant *(Feb 2023 – Jun 2023)*  
+**Programmer Analyst Trainee** — Cognizant *(Feb 2023 – Jun 2023)*  
 Built responsive web interfaces (HTML, CSS, JavaScript) and developed an attendance management portal using MySQL.
 
 ---
