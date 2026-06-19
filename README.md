@@ -1,7 +1,7 @@
 # Hi, I'm Mannoj Anandaraj 👋
 
 **MSc Advanced Computing Student @ King's College London**  
-📍 London, UK &nbsp;|&nbsp; 📧 anandarajmannoj@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/mannoj-anandaraj-b6ba20191)
+📍 London, UK &nbsp;|&nbsp; 📧 anandarajmannoj@gmail.com &nbsp;|&nbsp; - 🔗 [LinkedIn](https://linkedin.com/in/mannoj-anandaraj)
 
 ---
 
@@ -49,6 +49,11 @@ Completed 10 hands-on exploitation challenges, identifying and exploiting vulner
 ### 📈 Olympic Games Data Analytics — Interactive Dashboard
 Analysed 126 years of Olympic history (1896–2022) across 4 datasets: 21,697 medal records, 154 countries, 86 disciplines, and 162,804 results. Explored team performance trends, host nation advantage, and gender participation evolution.  
 `Tableau` `Python` `CSV`
+
+### 🚀 Digit Scanner API — Live ML Deployment
+A production-ready REST API that accepts handwritten digit images and returns predictions using a trained CNN (99.2% accuracy). Supports both single and multi-digit recognition with automatic background inversion and centre-of-mass alignment.  
+`Python` `FastAPI` `TensorFlow/Keras` `Docker` `Render`  
+🌐 [Live Demo](https://digit-scanner-api.onrender.com)
 
 ---
 
